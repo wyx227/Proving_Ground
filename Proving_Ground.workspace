@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Proving_Ground" Database="" Version="10.0.0">
+  <Project Name="Inversed_Trajectory" Path="Inversed_Trajectory/Inversed_Trajectory.project" Active="No"/>
+  <Project Name="WoWs_Pen_Calculator" Path="WoWs_Pen_Calculator/WoWs_Pen_Calculator.project" Active="No"/>
+  <Project Name="Hamming-Code" Path="Hamming-Code/Hamming-Code.project" Active="No"/>
+  <Project Name="test" Path="test/test.project" Active="No"/>
+  <Project Name="Gauss-Jordan" Path="Gauss-Jordan/Gauss-Jordan.project" Active="No"/>
+  <Project Name="Laplacescher-Entwicklungssatz" Path="Laplacescher-Entwicklungssatz/Laplacescher-Entwicklungssatz.project" Active="No"/>
+  <Project Name="Matrizen_Multiplikation" Path="Matrizen_Multiplikation/Matrizen_Multiplikation.project" Active="No"/>
+  <Project Name="Laplacescher-Entwicklungssatz-nxn" Path="Laplacescher-Entwicklungssatz-nxn/Laplacescher-Entwicklungssatz-nxn.project" Active="No"/>
+  <Project Name="Bitlength_Test" Path="Bitlength_Test/Bitlength_Test.project" Active="No"/>
+  <Project Name="Radixsort" Path="Radixsort/Radixsort.project" Active="No"/>
+  <Project Name="Getraenkautomat" Path="Getraenkautomat/Getraenkautomat.project" Active="No"/>
+  <Project Name="Wows_Pen_Calculator_Ver_2" Path="Wows_Pen_Calculator_Ver_2/Wows_Pen_Calculator_Ver_2.project" Active="No"/>
+  <Project Name="Call-by-Reference" Path="Call-by-Reference/Call-by-Reference.project" Active="No"/>
+  <Project Name="Call-by-Reference-II" Path="Call-by-Reference-II/Call-by-Reference-II.project" Active="No"/>
+  <Project Name="Graph_Implementation" Path="Graph_Implementation/Graph_Implementation.project" Active="No"/>
+  <Project Name="BitOperation" Path="BitOperation/BitOperation.project" Active="No"/>
+  <Project Name="BitOp_II" Path="BitOp_II/BitOp_II.project" Active="No"/>
+  <Project Name="BitOP_III" Path="BitOP_III/BitOP_III.project" Active="No"/>
+  <Project Name="Shneiderman" Path="Shneiderman/Shneiderman.project" Active="No"/>
+  <Project Name="Uebung_1" Path="Uebung_1/Uebung_1.project" Active="No"/>
+  <Project Name="dynamsiche_speicher_verwaltung" Path="dynamsiche_speicher_verwaltung/dynamsiche_speicher_verwaltung.project" Active="No"/>
+  <Project Name="Klausur_Wiederholung" Path="Klausur_Wiederholung/Klausur_Wiederholung.project" Active="No"/>
+  <Project Name="dec2bin" Path="dec2bin/dec2bin.project" Active="No"/>
+  <Project Name="socket_server" Path="scoket/scoket.project" Active="No"/>
+  <Project Name="socket_client" Path="socket_client/socket_client.project" Active="No"/>
+  <Project Name="struct" Path="struct/struct.project" Active="No"/>
+  <Project Name="test_2" Path="test_2/test_2.project" Active="No"/>
+  <Project Name="regula_falsi" Path="regula_falsi/regula_falsi.project" Active="No"/>
+  <Project Name="linearisieren_poti" Path="linearisieren_poti/linearisieren_poti.project" Active="No"/>
+  <Project Name="CRC" Path="CRC/CRC.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Inversed_Trajectory" ConfigName="Debug"/>
+      <Project Name="WoWs_Pen_Calculator" ConfigName="Debug"/>
+      <Project Name="Hamming-Code" ConfigName="Debug"/>
+      <Project Name="test" ConfigName="Debug"/>
+      <Project Name="Gauss-Jordan" ConfigName="Debug"/>
+      <Project Name="Laplacescher-Entwicklungssatz" ConfigName="Debug"/>
+      <Project Name="Matrizen_Multiplikation" ConfigName="Debug"/>
+      <Project Name="Laplacescher-Entwicklungssatz-nxn" ConfigName="Debug"/>
+      <Project Name="Bitlength_Test" ConfigName="Debug"/>
+      <Project Name="Radixsort" ConfigName="Debug"/>
+      <Project Name="Getraenkautomat" ConfigName="Debug"/>
+      <Project Name="Wows_Pen_Calculator_Ver_2" ConfigName="Debug"/>
+      <Project Name="Call-by-Reference" ConfigName="Debug"/>
+      <Project Name="Call-by-Reference-II" ConfigName="Debug"/>
+      <Project Name="Graph_Implementation" ConfigName="Debug"/>
+      <Project Name="BitOperation" ConfigName="Debug"/>
+      <Project Name="BitOp_II" ConfigName="Debug"/>
+      <Project Name="BitOP_III" ConfigName="Debug"/>
+      <Project Name="Shneiderman" ConfigName="Debug"/>
+      <Project Name="Uebung_1" ConfigName="Debug"/>
+      <Project Name="dynamsiche_speicher_verwaltung" ConfigName="Debug"/>
+      <Project Name="Klausur_Wiederholung" ConfigName="Debug"/>
+      <Project Name="dec2bin" ConfigName="Debug"/>
+      <Project Name="socket_server" ConfigName="Debug"/>
+      <Project Name="socket_client" ConfigName="Debug"/>
+      <Project Name="struct" ConfigName="Debug"/>
+      <Project Name="test_2" ConfigName="Debug"/>
+      <Project Name="regula_falsi" ConfigName="Debug"/>
+      <Project Name="linearisieren_poti" ConfigName="Debug"/>
+      <Project Name="CRC" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Inversed_Trajectory" ConfigName="Release"/>
+      <Project Name="WoWs_Pen_Calculator" ConfigName="Release"/>
+      <Project Name="Hamming-Code" ConfigName="Release"/>
+      <Project Name="test" ConfigName="Release"/>
+      <Project Name="Gauss-Jordan" ConfigName="Release"/>
+      <Project Name="Laplacescher-Entwicklungssatz" ConfigName="Release"/>
+      <Project Name="Matrizen_Multiplikation" ConfigName="Release"/>
+      <Project Name="Laplacescher-Entwicklungssatz-nxn" ConfigName="Release"/>
+      <Project Name="Bitlength_Test" ConfigName="Release"/>
+      <Project Name="Radixsort" ConfigName="Release"/>
+      <Project Name="Getraenkautomat" ConfigName="Release"/>
+      <Project Name="Wows_Pen_Calculator_Ver_2" ConfigName="Release"/>
+      <Project Name="Call-by-Reference" ConfigName="Release"/>
+      <Project Name="Call-by-Reference-II" ConfigName="Release"/>
+      <Project Name="Graph_Implementation" ConfigName="Release"/>
+      <Project Name="BitOperation" ConfigName="Release"/>
+      <Project Name="BitOp_II" ConfigName="Release"/>
+      <Project Name="BitOP_III" ConfigName="Release"/>
+      <Project Name="Shneiderman" ConfigName="Release"/>
+      <Project Name="Uebung_1" ConfigName="Release"/>
+      <Project Name="dynamsiche_speicher_verwaltung" ConfigName="Release"/>
+      <Project Name="Klausur_Wiederholung" ConfigName="Release"/>
+      <Project Name="dec2bin" ConfigName="Release"/>
+      <Project Name="socket_server" ConfigName="Release"/>
+      <Project Name="socket_client" ConfigName="Release"/>
+      <Project Name="struct" ConfigName="Release"/>
+      <Project Name="test_2" ConfigName="Release"/>
+      <Project Name="regula_falsi" ConfigName="Release"/>
+      <Project Name="linearisieren_poti" ConfigName="Release"/>
+      <Project Name="CRC" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
